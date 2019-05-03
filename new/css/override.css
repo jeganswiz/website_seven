@@ -1,0 +1,121 @@
+.title
+{
+	text-align:center;
+}
+.subtitle
+{
+	text-align: center;
+}
+.adhar_head
+{
+	margin-left: 521px;
+}
+.enternum 
+{
+    margin-left: 301px;
+}
+.scanned_aadhar 
+{
+    margin-left: 459px;
+}
+.adhar_terms {
+    margin-left: 465px;
+}
+.sub_align {
+    margin-left: 570px;
+
+}
+.bt_edit
+{
+	padding:5px;
+	border-radius: 3px;
+	width:80px;
+	color:#000;
+	box-shadow: none;
+}
+.socia_icon li
+{
+	margin-left: 12px;
+}
+.sampleimg
+{
+		height: 100px;
+		column-width: 100px;
+}
+.top-right-img
+{
+	width:180px;
+}
+.pos_pro {
+    margin-left: 359px;
+}
+
+.video-responsive{
+    overflow:hidden;
+    height: 350px;
+
+}
+.video-responsive iframe{
+    
+    height:100%;
+    width:100%;
+}
+.center
+{
+	text-align: center;
+}
+.title
+{
+	text-align:left !important;
+}
+.cart-lis img
+{
+    height: 100px;
+    width: 80px;
+    margin-right: 10px;
+}
+.pro-det
+{
+	margin-left:20px !important;
+}
+.error 
+{
+	color: red;
+	margin-left: 5px;
+}
+   
+label.error 
+{
+	display: inline;
+}
+.modal-hea {
+    margin-left: 167px;
+}
+.modal-but {
+    margin-left: 192px;
+	margin-top: 22px;
+	border-radius: 4px;
+}
+.modal-butt{
+	margin-top:22px;
+	margin-left:10px;
+	border-radius: 4px;
+}
+.err
+{
+	color: #3dc64d;
+	margin-left: 5px;
+}
+label.err
+{
+	display:inline;
+}
+#netword_err
+{
+	font-size: 50px;
+	color: red;
+}
+#login_err
+{
+	color: red;
+}
